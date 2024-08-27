@@ -1,0 +1,12 @@
+begin
+int add(int a, int b)
+{
+	return a + b;
+}
+
+int i = i + 1;
+print(i);
+
+print(add(5 ,6));
+
+end
